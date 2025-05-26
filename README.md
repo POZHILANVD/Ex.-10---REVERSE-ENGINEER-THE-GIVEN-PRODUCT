@@ -1,6 +1,6 @@
-# Ex.NO:4 - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE:
+### DATE: 25-05-2025
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,11 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![Screenshot 2025-05-22 171802](https://github.com/user-attachments/assets/01f5046e-36a4-4078-bb26-a14620c61430)
 
 ### Output:
-![WhatsApp Image 2025-04-24 at 16 02 26_a37fb96d](https://github.com/user-attachments/assets/16557fff-30f7-4206-b2c7-f8f3df64d557)
-![WhatsApp Image 2025-04-24 at 16 02 34_e3cc7864](https://github.com/user-attachments/assets/fffd9dba-1a31-4600-a429-05a660da3366)
-
+![Screenshot 2025-05-22 171846](https://github.com/user-attachments/assets/9e5cfeac-3c8c-4267-9c0c-104245b0a253)
 
 ### Name: POZHILAN V D
 ### Register Number: 212223240118
